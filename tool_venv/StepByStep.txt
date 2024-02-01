@@ -1,0 +1,9 @@
+C:\Users\Win10\Desktop\Python_Venv>python -m venv tool_venv
+C:\Users\Win10\Desktop\Python_Venv>code .
+C:\Users\Win10\Desktop\Python_Venv>tool_venv\Scripts\activate.bat
+(tool_venv) C:\Users\Win10\Desktop\Python_Venv>python --version
+Python 3.12.1
+
+Nếu muốn cài đặt lại các package thì ==> pip install -r requirements.txt
+Trong file requirements lưu các package cần cài đặt.
+Muốn show phiên version của các package ==> pip show request
